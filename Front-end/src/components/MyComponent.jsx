@@ -85,3 +85,5 @@ function MyComponent(props) {
     </div>
   );
 }
+
+export default MyComponent;
